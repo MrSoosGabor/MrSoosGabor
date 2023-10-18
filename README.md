@@ -4,7 +4,7 @@
 **MrSoosGabor/MrSoosGabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [Kedvenc oldalam](https://www.emag.hu)
-![óriáskerék](https://cdn.pixabay.com/photo/2020/03/26/05/07/travel-4969279_1280.jpg)
+![óriáskerék](town-8310950_640.jpg)
 
 
 <!--
